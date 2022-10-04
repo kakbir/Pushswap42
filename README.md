@@ -1,4 +1,4 @@
-# 42-push_swap
+# 42-push_swap.  82
 ## Algorithmic project
 
 Push Swap is the third project of algorithm branch in the study program at School 42 (UNIT Factory). <br>
